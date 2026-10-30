@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# course day snapshots (not part of ETL project)
+Python_Bootcamp.Day*/
